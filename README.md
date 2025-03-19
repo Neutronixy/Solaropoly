@@ -7,3 +7,5 @@ Starting the game with an investment of Green Energy Tokens provided by the Unit
 But also, the player whose power increase tips the total energy capture over the target recieves a legendary commemorative ScamCoin! 
 
 You can increase power output by buying areas with basic facilities, completing sets of complementary facilities in regions (vertical integration of operations), and developing those completed sets. You'll be able to trade with other players to complete sets, start development and increase your individual and collective chances of hitting the target.
+
+**Watch the Video:** [Solaropoly Gameplay](https://www.youtube.com/watch?v=ZMplDGZ74HI)
