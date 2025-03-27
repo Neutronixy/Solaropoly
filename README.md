@@ -1,5 +1,4 @@
-    Welcome to SOLAROPOLY!    
-
+# Solaropoly Strategy Game
 In this game, you'll each take the role of a solar energy startup competing for space to set up your solar farms, factories and grids across the globe. 
 
 Starting the game with an investment of Green Energy Tokens provided by the United Nations for the project, the goal is to maximise energy production among all companies and reach a target solar power output within  a given number of turns - so compete and collaborate wisely.
